@@ -1,4 +1,7 @@
 {
+  "name": "snap-poll",
+  "version": "0.1.0",
+  "homepage": "https://marcier.github.io/snappoll",
   "dependencies": {
     "lucide-react": "^0.575.0"
   }
